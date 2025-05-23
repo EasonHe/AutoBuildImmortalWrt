@@ -46,7 +46,9 @@ PACKAGES="$PACKAGES luci-app-openclash"
 PACKAGES="$PACKAGES luci-i18n-homeproxy-zh-cn"
 PACKAGES="$PACKAGES openssh-sftp-server"
 PACKAGES="$PACKAGES luci-app-ddns"
-
+PACKAGES="$PACKAGES nikki"
+PACKAGES="$PACKAGES luci-app-nikki"
+PACKAGES="$PACKAGES luci-i18n-nikki-zh-cn"
 
 # 增加几个必备组件 方便用户安装iStore
 PACKAGES="$PACKAGES fdisk"
